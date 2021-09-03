@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dejatori
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python, Java and JavaScripts.
+- 💞️ I’m looking to collaborate on students project MINTIC
+- 📫 How to reach me public e-mail: deivitsc@gmail.com
