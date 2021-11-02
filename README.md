@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dejatori
+- 👋 Hi, I’m @D3jatori
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, Java and JavaScripts.
 - 💞️ I’m looking to collaborate on students project MINTIC
