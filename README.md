@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D3jatori
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning analysis and software development in SENA (Servicio nacional de aprendizaje)
-- 💞️ I’m looking to collaborate on students projects or free software projects.
-- 📫 How to reach me -> public e-mail: deivitsc@gmail.com -> linkeding: https://www.linkedin.com/in/dejatori/
+- 💞️ I’m looking to collaborate on students projects or open source projects.
+- 📫 How to reach me? -> public e-mail: deivitsc@gmail.com -> linkedIn: https://www.linkedin.com/in/dejatori/
