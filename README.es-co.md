@@ -15,8 +15,6 @@ Por eso me encanta el mundo de la **tecnología y la innovación** 🚀.
 
 ## 🛠️ Habilidades y Herramientas
 
-### 🚀 Lenguajes de Programación
-
 <details>
 <summary>🚀 Lenguajes de Programación</summary>
 <br>
@@ -27,6 +25,7 @@ Por eso me encanta el mundo de la **tecnología y la innovación** 🚀.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/r-%2300BFFF.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
