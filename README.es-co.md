@@ -1,25 +1,24 @@
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Dejatori/Dejatori/blob/main/README.es-co.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Dejatori/Dejatori/blob/main/README.md)
 
-# 👋 Hi, I'm David Toscano (aka Dejatori)
+# 👋 Hola, soy David Toscano (también conocido como Dejatori)
 
-I am a **disciplined and goal-oriented developer**, driven by my **Ikigai: creating solutions**.
+Soy un **desarrollador disciplinado y orientado a alcanzar mis metas**, impulsado por mi **Ikigai: crear soluciones**.
 
-That’s why I love the world of **technology and innovation** 🚀.
+Por eso me encanta el mundo de la **tecnología y la innovación** 🚀.
 
----
+## 👨‍💻 Sobre mí
 
-## 👨‍💻 About Me
+- Disfruto del **trabajo en equipo, el aprendizaje continuo y el crecimiento profesional**, siempre buscando soluciones
+  creativas.
+- Soy una persona proactiva y organizada, constantemente en busca de nuevos retos y conocimientos.
+- En mi tiempo libre, exploro **nuevas tecnologías, idiomas y comparto momentos especiales** con mis seres queridos.
 
-- I enjoy **collaboration, continuous learning, and professional growth**, always seeking creative solutions.
-- A proactive and organized person, constantly looking for new challenges and knowledge.
-- In my free time, I explore **new technologies, languages, and share special moments** with my loved ones.
+## 🛠️ Habilidades y Herramientas
 
----
-
-## 🛠️ Skills & Tools
+### 🚀 Lenguajes de Programación
 
 <details>
-<summary>🚀 Programming Languages</summary>
+<summary>🚀 Lenguajes de Programación</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,7 +35,7 @@ That’s why I love the world of **technology and innovation** 🚀.
 </details>
 
 <details>
-<summary>📚 Frameworks & Libraries</summary>
+<summary>📚 Frameworks y Bibliotecas</summary>
 <br>
 
 ### Python
@@ -105,7 +104,7 @@ That’s why I love the world of **technology and innovation** 🚀.
 </details>
 
 <details>
-<summary>💾 Databases</summary>
+<summary>💾 Bases de Datos</summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -122,7 +121,7 @@ That’s why I love the world of **technology and innovation** 🚀.
 </details>
 
 <details>
-<summary>☁️ DevOps & Infrastructure</summary>
+<summary>☁️ DevOps e Infraestructura</summary>
 <br>
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -140,7 +139,7 @@ That’s why I love the world of **technology and innovation** 🚀.
 </details>
 
 <details>
-<summary>🔧 Tools & Platforms</summary>
+<summary>🔧 Herramientas y Plataformas</summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -169,22 +168,22 @@ That’s why I love the world of **technology and innovation** 🚀.
 
 </details>
 
-### 🌍 Languages
+### 🌍 Idiomas
 
-![Spanish - Native](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge&logo=flag&logoColor=white&labelColor=black)
-![English - Advanced](https://img.shields.io/badge/English-Advanced-4285F4?style=for-the-badge&logo=flag&logoColor=white&labelColor=black)
+![Español - Nativo](https://img.shields.io/badge/Español-Nativo-brightgreen?style=for-the-badge&logo=flag&logoColor=white&labelColor=black)
+![Inglés - Avanzado](https://img.shields.io/badge/Inglés-Avanzado-4285F4?style=for-the-badge&logo=flag&logoColor=white&labelColor=black)
 
-### 🌟 Soft Skills
+### 🌟 Habilidades Blandas
 
-![Assertive Communication](https://img.shields.io/badge/Assertive%20Communication-3498DB?style=for-the-badge&logo=message&logoColor=white)
-![Leadership](https://img.shields.io/badge/Leadership-F39C12?style=for-the-badge&logo=leaderboard&logoColor=white)
-![Empathy](https://img.shields.io/badge/Empathy-E67E22?style=for-the-badge&logo=hugs&logoColor=white)
-![Resilience](https://img.shields.io/badge/Resilience-9B59B6?style=for-the-badge&logo=retry&logoColor=white)
-![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-27AE60?style=for-the-badge&logo=book&logoColor=white)
+![Comunicación Asertiva](https://img.shields.io/badge/Comunicación%20Asertiva-3498DB?style=for-the-badge&logo=message&logoColor=white)
+![Liderazgo](https://img.shields.io/badge/Liderazgo-F39C12?style=for-the-badge&logo=leaderboard&logoColor=white)
+![Empatía](https://img.shields.io/badge/Empatía-E67E22?style=for-the-badge&logo=hugs&logoColor=white)
+![Resiliencia](https://img.shields.io/badge/Resiliencia-9B59B6?style=for-the-badge&logo=retry&logoColor=white)
+![Aprendizaje Continuo](https://img.shields.io/badge/Aprendizaje%20Continuo-27AE60?style=for-the-badge&logo=book&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p>
   <table>
@@ -197,36 +196,38 @@ That’s why I love the world of **technology and innovation** 🚀.
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Proyectos Recientes
 
-- 📷 **[Memories Album](https://github.com/Dejatori/memories-album)** - A full-stack interactive photo and video album
-  app built with React, TypeScript, and Express.js. Users can upload, organize, and share multimedia content with custom
-  descriptions and privacy settings. Powered by MongoDB for storage and Cloudinary for media management, it features JWT
-  authentication, responsive design with Tailwind CSS, and a clean Vite + React frontend.
-- 🔧 **[Store-API](https://github.com/Dejatori/Store-API)** – Complete REST API built with FastAPI and Python 3.11.
-  Features JWT authentication, background task processing with Celery and Redis, automatic Swagger documentation, and
-  unit tests. Implements post creation, image generation, file uploads to B2, and email notifications.
-- 📊 **[Database Managment App](https://github.com/Dejatori/database-management-app)** – A desktop application built with
-  **Python, Flask, and Tkinter** that enables CRUD operations across multiple domain-specific databases (clinics,
-  restaurants, car sales). Features a modular architecture with SQLAlchemy ORM, dependency injection, data validation,
-  and a user-friendly GUI enhanced with custom themes, pagination, and search filters. Ideal for managing heterogeneous
-  data in a single, intuitive interface.
+- 📷 **[Memories Album](https://github.com/Dejatori/memories-album)** – Una aplicación full-stack interactiva para fotos
+  y videos construida con React, TypeScript y Express.js. Permite a los usuarios subir, organizar y compartir contenido
+  multimedia con descripciones personalizadas y configuraciones de privacidad. Usa MongoDB para almacenamiento y
+  Cloudinary para gestión de medios, con autenticación JWT, diseño responsive con Tailwind CSS y frontend limpio con
+  Vite + React.
+- 🔧 **[Store-API](https://github.com/Dejatori/Store-API)** – API REST completa construida con FastAPI y Python 3.11.
+  Incluye autenticación JWT, procesamiento de tareas en segundo plano con Celery y Redis, documentación automática en
+  Swagger y pruebas unitarias. Implementa creación de publicaciones, generación de imágenes, subida de archivos a B2 y
+  notificaciones por correo.
+- 📊 **[Aplicación de Gestión de Bases de Datos](https://github.com/Dejatori/database-management-app)** – Una aplicación
+  de escritorio desarrollada con **Python, Flask y Tkinter** que permite operaciones CRUD en múltiples bases de datos
+  por dominio (clínicas, restaurantes, venta de autos). Cuenta con arquitectura modular, ORM SQLAlchemy, inyección de
+  dependencias, validación de datos y una interfaz gráfica amigable con temas personalizados, paginación y filtros de
+  búsqueda. Ideal para gestionar datos heterogéneos en una sola interfaz intuitiva.
 
-*Check out my [Startup portfolio](https://dejatori.notion.site/) for more projects!*
-
----
-
-## 🌐 Connect With Me
-
-|       Platform       | Link                                                                                                                                                                                                |
-|:--------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     📘 LinkedIn      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejatori/)                                                |
-| 💼 Startup Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Notion&logoColor=white)](https://dejatori.notion.site/)                                                        |
-|       ✉️ Email       | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dejatori@s5p5h.onmicrosoft.com?subject=Hi%20David,%20I%20saw%20your%20GitHub%20profile) |
+*¡Revisa mi [portafolio de emprendimientos](https://dejatori.notion.site/) para ver más proyectos!*
 
 ---
 
-## ✨ Quote that Inspires Me
+## 🌐 Conéctate conmigo
 
-> ❝ Whatever you can do or dream you can, begin it.
-> Boldness has genius, power, and magic in it! ❞
+|          Plataforma           | Enlace                                                                                                                                                                                               |
+|:-----------------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          📘 LinkedIn          | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejatori/)                                                 |
+| 💼 Startup Portafolio | [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=Notion&logoColor=white)](https://dejatori.notion.site/)                                                       |
+|           ✉️ Correo           | [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dejatori@s5p5h.onmicrosoft.com?subject=Hola%20David,%20vi%20tu%20perfil%20de%20GitHub) |
+
+---
+
+## ✨ Frase que me inspira
+
+> ❝ Lo que puedas hacer o soñar que puedes, comiénzalo
+> ¡La audacia tiene genio, poder y magia en sí! ❞
